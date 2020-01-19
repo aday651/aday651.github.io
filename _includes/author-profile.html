@@ -8,9 +8,12 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" onmouseover="this.src='{{ author.avatar_mouse }}';" onmouseout="this.src='{{ author.avatar }}';">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" 
+             class="author__avatar" alt="{{ author.name }}" 
+             onmouseover="this.src='{{ author.avatar_mouse | prepend: "/images/" | prepend: base_path }}';" 
+             onmouseout="this.src='{{ author.avatar | prepend: "/images/" | prepend: base_path }}';">
     {% endif %}
   </div>
 

@@ -83,6 +83,7 @@ analytics:
 author:
   name             : "Andrew Davison"
   avatar           : "profile.png"
+  avatar_mouse     : "profile_mouse.png"
   bio              : "PhD Student in Statistics at Columbia University"
   location         : "New York, NY"
   employer         :
