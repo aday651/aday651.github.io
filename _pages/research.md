@@ -19,8 +19,8 @@ Although my focus currently is theoretical, I try and take the stance that theor
 ## Papers ##
 
 * **Davison, A.**, Austern, M. Asymptotics for graph embeddigs. _(Draft available on request.)_ 
-* Ward, O.G., Huang, Z., **Davison, A**, Zheng, T. [Next waves in veridical network embedding](https://doi.org/10.1002/sam.11486). Statistical Analysis and Data Mining. 2020; 1– 13.
+* Ward, O.G., Huang, Z., **Davison, A.**, Zheng, T. [Next waves in veridical network embedding](https://doi.org/10.1002/sam.11486). Statistical Analysis and Data Mining. 2020; 1– 13.
 
 ### Pre-prints and other manuscripts ###
 
-* Davison, A. (2016) New advances in causal inference. _Part III Essay_. ([pdf](../files/partiiiessay.pdf))
+* **Davison, A.** New advances in causal inference. _Part III Essay_. ([pdf](../files/partiiiessay.pdf))
