@@ -6,7 +6,9 @@ redirect_from:
   - /teaching.html
 ---
 
-Over the past couple of years, I've taught the following courses:
+Currently (Summer 2021) I am helping mentor the [Public Interest Technology Data Science Corps (PITDSC)](https://stat.columbia.edu/2021-public-interest-technology-data-science-corps-projects/) program between [Columbia University](https://www.columbia.edu/) and [Lehman College](http://lehman.edu/), which is a REU program focusing on data science research questions with an obvious societal impact.
+
+I have taught the following courses:
 
 * (Summer 2019-2021) "Core Mathematical Skills for Statistics/Data Science", an intensive short sequence of sessions reviewing the necessary parts of undergraduate calculus and linear algebra necessary for a masters' degree in Statistics or Data Science at Columbia. In 2019 I developed the course and delivered this in person. In 2020 I delivered the course via a sequence of 10/15 minute videos, each focusing on an individual topic. In 2021, I will be holding recitation classes for the course.
 * (Summer 2018) I lead a sequence of 10 review sessions (approx. 90 minutes each) for PhD students taking the 'Statistical Inference' qualifying exam.
