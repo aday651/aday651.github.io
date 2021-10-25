@@ -27,7 +27,7 @@ interesting to analyze are:
 -   My streaming history; this is usually limited to only a year, but I
     requested my data twice over a five month period, so I have at least
     16 months worth of data.
--   A file called “Inferences”. After looking at the [descriptions of
+-   A file called `Inferences.json`. After looking at the [descriptions of
     the data
     files](https://support.spotify.com/us/article/understanding-my-data/)
     it appears that this corresponds to some categories Spotify believes
