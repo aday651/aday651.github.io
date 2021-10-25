@@ -407,7 +407,7 @@ make:
 -   From these plots, you can pretty much infer what my sleep patterns
     are; I’m up by around 7am, and go to bed usually around 11pm or
     12am.
--   I tend to stay up past midnight only on Tuesdays and Wednesdays, but
+-   I tend to stay up past midnight only on Monday and Tuesdays, but
     I also don’t do so very frequently (as the standard deviation is
     high for these days and time regions).
 -   I tend to listen to music more during the week than not during the
