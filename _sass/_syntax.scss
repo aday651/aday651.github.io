@@ -19,16 +19,16 @@ div.highlighter-rouge, figure.highlight {
     background-color: $lighter-gray;
     content: "\f121";
     font-family: "Font Awesome 5 Free" !important;
+    font-weight: 400;
     font-size: $type-size-6;
     line-height: 1;
     text-transform: none;
-    speak: none;
   }
 
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: .8125em;
+    font-size: 1.25em;
     line-height: 1.8;
   }
 }
