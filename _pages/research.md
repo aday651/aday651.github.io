@@ -18,8 +18,8 @@ Although I have a focus on mostly theoretical work, I take the stance that theor
 
 ## Papers ##
 
-* **Davison, A.** [Asymptotics of $\ell_2$ Regularized Network Embeddings](https://arxiv.org/abs/2201.01689). Submitted.
-* **Davison, A.**, Austern, M. [Asymptotics of Network Embeddings Learned via Subsampling](https://arxiv.org/abs/2107.02363). [(GitHub repo with experiment code.)](https://github.com/aday651/embed-asym-exeriments). Submitted.
+* **Davison, A.** [Asymptotics of $\ell_2$ Regularized Network Embeddings](https://arxiv.org/abs/2201.01689). Advances in Neural Information Processing Systems 35 (NeurIPS 2022).
+* **Davison, A.**, Austern, M. [Asymptotics of Network Embeddings Learned via Subsampling](https://arxiv.org/abs/2107.02363). [(GitHub repo with experiment code.)](https://github.com/aday651/embed-asym-exeriments). Journal of Machine Learning Research 24 (2023) 1-120.
 * Ward, O.G., Huang, Z., **Davison, A.**, Zheng, T. [Next waves in veridical network embedding](https://doi.org/10.1002/sam.11486). Statistical Analysis and Data Mining. 2020; 1– 13.
 
 ### Other manuscripts ###
