@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Andrew! I'm an individual who is enthuastic about using data and ML/AI to solve problems and make an impact. Until recently, I was a Research Data Scientist at Meta, where I worked on capacity, efficiency and productivity within their Data Infrastructure org. Prior to that, I completed my PhD in [Statistics](http://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/), supervised by [Prof. Tian Zheng](http://www.stat.columbia.edu/~tzheng/). 
+I'm Andrew! I'm an individual who is enthuastic about using data and ML/AI to solve problems and make an impact. Until recently, I was a Research Data Scientist at Meta, where I worked on capacity, efficiency and productivity within their Data Infrastructure org. Prior to that, I completed my PhD in [Statistics](http://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/), supervised by [Prof. Tian Zheng](http://www.stat.columbia.edu/~tzheng/). My research has been published in venues such as [NeurIPS](https://nips.cc/) and [JMLR](https://www.jmlr.org/).
 
 My research interests focused around machine learning methods for network embedding methods, examining these from a statistical perspective and seeking methodological improvements of these methods. I'm also interested in the implications of using the learned embedding vectors for different downstream tasks in machine learning. See my [Research](https://aday651.github.io/research/) page for a more detailed breakdown about my thoughts and interests. While I'm no longer attached to academia, I'm still interested in persuing research if the right problem arises.
 
