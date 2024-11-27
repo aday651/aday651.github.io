@@ -18,6 +18,7 @@ Although I have a focus on mostly theoretical work, I take the stance that theor
 
 ## Papers ##
 
+* Lee, H., **Davison, A.**, Ying, Z. [Measuring Social Ties from Roll Call Votes: A Fused Latent Factor and Social Network Approach](https://osf.io/preprints/osf/6euf3). Preprint.
 * **Davison, A.**, Morgan, S. C., Ward, O. G. [Community Detection Guarantees using Embeddings
 Learned by Node2Vec](https://arxiv.org/abs/2310.17712). Accepted at NeurIPS 2024.
 * **Davison, A.** [Asymptotics of $\ell_2$ Regularized Network Embeddings](https://arxiv.org/abs/2201.01689). Advances in Neural Information Processing Systems 35 (NeurIPS 2022).
